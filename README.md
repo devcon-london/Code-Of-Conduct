@@ -8,7 +8,7 @@ Your voice is always welcome. It's natural to feel intimidated when posting to a
 
 ## Origin
 
-The Devcon London mailing list was originally created in London in 2015 to meet and build a professional network of trusted people. Over time the community was grown and evolved to became a resource for technical knowledge and job/gig listings. 
+The [Devcon.network](https://devcon.network) mailing list was originally created in London in 2015 to meet and build a professional network of trusted people. Over time the community was grown and evolved to became a resource for technical knowledge and job/gig listings. 
 
 ## Rules
 
@@ -27,16 +27,17 @@ The Devcon London mailing list was originally created in London in 2015 to meet 
 6. **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 7. **Keep it on-topic.** Consider if what you say serves the intent of the original post. If not, create a new thread.
 8. **Speak up.** If you see bad behavior, please call it out and contact one of the moderators.
+9. **Be a professional.** Your work must be at the highest level you can achieve: since you're likely to get some work through our channels if you want to, using the name of our community reflects on all our members. Make sure it is well spent so that we can keep receiving good job opportunities.
 
 ## Moderation
 
-Should you experience anything that violates this code, or makes you feel unwelcome on the list, please contact one of the moderators.
+Should you experience anything that violates this code, or makes you feel unwelcome on the list, please contact one of the moderators. Our community takes these violations seriously and the offenders could be banned.
 
 ## Adding New Members
 
-Devcon London is always growing! Only existing members can invite new members by the following procedure:
+Devcon.network is always growing! Only existing members can invite new members by the following procedure:
 
-1. Direct them to [devcon.rocks](https://devcon.rocks)
+1. Direct them to [devcon.network](https://devcon.network)
 2. Wait until the new member notifies you that they have filled in the form in the website.
 3. Post a courteous, professional, and supportive welcome message to the Slack channel to give the new member visibility.
 
